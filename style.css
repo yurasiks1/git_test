@@ -1,6 +1,22 @@
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
+body {
+  background-color: #1f1c1c;
+  margin: 0;
+  padding: 0;
+}
+div {
+  color: white;
+  background-color: red;
   text-align: center;
+  font-size: 32px;
+  font-family: Arial, sans-serif;
+  font-weight: 700;
+  
+}
+.btn {
+  color: black;
+  background-color: #e09d0d;
+  border-color: #ee130c;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 500;
 }
